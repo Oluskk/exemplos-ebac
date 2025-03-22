@@ -2,4 +2,5 @@
 Exemplos de projetos ebac.
 
 Primeiro exemplo de commit e push no repositório remoto.
-Segundo commit
+Segundo commit.
+Terceiro commit.
